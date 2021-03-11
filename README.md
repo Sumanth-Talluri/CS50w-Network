@@ -32,7 +32,7 @@ Using Python, JavaScript, HTML, and CSS, complete the implementation of a social
 
 :computer: &nbsp; **View Course [here](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)**
 
-:arrow_forward: &nbsp; **View Live Demo [here](https://youtu.be/CtuUdZtPxik)**
+:arrow_forward: &nbsp; **View Live Demo [here](https://www.youtube.com/watch?v=4H7dKx5h3Bo)**
 
 &nbsp;
 
